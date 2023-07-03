@@ -1,1 +1,6 @@
-# Editar
+# Desempenho ENEM 2021
+Meu objetivo neste projeto é explorar alternativas de regressão linear e criar o melhor modelo possível para prever o desempenho de alunos com base em dados socioeconômicos do ENEM (Exame Nacional do Ensino Médio) 2021.
+
+Para isso, utilizarei um conjunto de dados estratificado por estado, representando 10% do total de candidatos inscritos no ENEM. Os dados completos podem ser obtidos no Portal de Dados Abertos do INEP <a href="https://www.gov.br/inep/pt-br">(Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira)</a>. O conjunto de dados é baseado em duas fontes de informação: o <a href="https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem">questionário socioeconômico</a>, respondido pelos candidatos durante o processo de inscrição em 2021, e as notas obtidas pelos candidatos em cinco áreas do exame: redação, matemática, linguagens e códigos, ciências humanas e ciências da natureza.
+
+A variável-alvo (ou target) deste proejto é a variável NU_MEDIA, que representa a média aritmética das cinco notas obtidas pelos candidatos no ENEM. Meu objetivo é desenvolver um modelo de regressão capaz de prever essa média com base nas informações socioeconômicas dos alunos.
