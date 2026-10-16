@@ -1,5 +1,8 @@
 # Desempenho ENEM 2021
 
+[![App online](https://img.shields.io/badge/App%20online-Railway-7c3aed?logo=railway&logoColor=white)](https://portfolio-app-production-d745.up.railway.app/enem)  
+> 🚀 **Demo interativa:** https://portfolio-app-production-d745.up.railway.app/enem
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmanuelvrm/desempenho-enem-2021/blob/main/notebooks/Desempenho_ENEM.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![PyCaret](https://img.shields.io/badge/PyCaret-3.x-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
