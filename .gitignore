@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Segredos e configuracoes locais
+.env
+*.env
+secrets.toml
+.streamlit/secrets.toml
+
+# SO / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
